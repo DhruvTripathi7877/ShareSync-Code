@@ -1,5 +1,5 @@
 import axios from "axios"
-const API_URL = "http://localhost:8000"
+const API_URL = "https://share-sync-code.vercel.app"
 
 const headers = {
     "Content-Type": "image/jpeg"
